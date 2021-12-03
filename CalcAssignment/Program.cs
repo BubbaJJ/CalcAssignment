@@ -10,7 +10,7 @@ namespace CalcAssignment
 
             -- INSTRUKTIONER --
             Samtliga metoder ska skapas i klassen Calculator.
-            Se CalcAssignmentTests.cs för vad metodnamn.
+            Se CalcAssignmentTests.cs för metodnamn.
             Testerna får inte modifieras.
 
             -- KRAV --
