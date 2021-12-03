@@ -8,5 +8,6 @@ namespace CalcAssignment
 {
     public class Calculator
     {
+        // Metoder skapas här.
     }
 }
